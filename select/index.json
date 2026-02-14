@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FOUL",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T13:56:44.728853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Renegade Snares (Foul Play VIP Mix)",
+      "artist": "Omni Trio",
+      "has_synced": false,
+      "path": "select/01_Renegade_Snares_(Foul_Play_VIP_Mix)_Omni_Trio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Foul Taste",
+      "artist": "Corbin",
+      "has_synced": false,
+      "path": "select/02_Foul_Taste_Corbin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Foul Step From the Abyss",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/03_One_Foul_Step_From_the_Abyss_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ready to Take a Chance Again (From the \"Foul Play\" Soundtrack)",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/04_Ready_to_Take_a_Chance_Again_(From_the__Foul_Play__Soundtrack)_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ready to Take a Chance Again (from 'Foul Play')",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/05_Ready_to_Take_a_Chance_Again_(from_'Foul_Play')_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Foul Play",
+      "artist": "Robert Cray",
+      "has_synced": false,
+      "path": "select/06_Foul_Play_Robert_Cray.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ready To Take A Chance Again - From the \"Foul Play\" Original Soundtrack",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/07_Ready_To_Take_A_Chance_Again_-_From_the__Foul_Play__Original_Soundtrack_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ready to Take a Chance Again (from the “Foul Play” original soundtrack)",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/08_Ready_to_Take_a_Chance_Again_(from_the_“Foul_Play”_original_soundtrack)_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Foul Play - Remastered",
+      "artist": "Betty Carter",
+      "has_synced": false,
+      "path": "select/09_Foul_Play_-_Remastered_Betty_Carter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Foul Body Autopsy",
+      "artist": "Necrophagist",
+      "has_synced": true,
+      "path": "select/10_Foul_Body_Autopsy_Necrophagist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Foul Body Autopsy",
+      "artist": "Necrophagist",
+      "has_synced": false,
+      "path": "select/11_Foul_Body_Autopsy_Necrophagist.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FOUL",
+      "artist": "GANG PARADE",
+      "has_synced": true,
+      "path": "select/12_FOUL_GANG_PARADE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Party Foul",
+      "artist": "Attack Attack! (US)",
+      "has_synced": true,
+      "path": "select/13_Party_Foul_Attack_Attack!_(US).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Party Foul",
+      "artist": "Attack Attack!",
+      "has_synced": false,
+      "path": "select/14_Party_Foul_Attack_Attack!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOUL",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_FOUL_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "FOUL",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_FOUL_東京事変.txt"
+    }
+  ]
+}
